@@ -128,5 +128,5 @@ Summary
 - Use userId as a query parameter to access or manage a user's custom categories.
 - The microservice stores data IN MEMORY; restarting the service clears all data.
 
-If you have any issues integrating with this microservice, please contact me directly by Friday at 11:59 PM so we can resolve it before the sprint ends.
+If you have any issues integrating with this microservice, please contact me directly a day before the deadline so we can resolve it before the sprint ends.
 
